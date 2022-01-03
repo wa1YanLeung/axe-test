@@ -6,7 +6,9 @@
 
 ```
 # Install dependencies
-npm init
+npm init -y 
+npm i selenium-webdriver --save
+npm i @axe-core/webdriverjs
 
 # Run first test - main-nav (CSS selector) loaded?
 node index
