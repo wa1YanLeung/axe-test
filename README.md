@@ -1,4 +1,4 @@
-# Web accessibility tests
+# Web accessibility test
 
 ## Using axe-webdriverjs and Selenium to perform test on https://dequeuniversity.com/demo/mars
 
